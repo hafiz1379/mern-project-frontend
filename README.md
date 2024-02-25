@@ -54,7 +54,7 @@ Welcome to MyPlaces, a full-stack web application where users can sign in, log i
 
 ## Live Demo
 
-You can check out a live demo of the application [here](insert_live_demo_link).
+You can check out a live demo of the application [here](https://mern-project-frontend-ruod.onrender.com).
 
 ## Screenshots
 
