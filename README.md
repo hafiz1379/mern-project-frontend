@@ -59,7 +59,7 @@ You can check out a live demo of the application [here](https://mern-project-fro
 ## Screenshots
 
 ![Login](./src/assets/login.png)
-![All Users](./src/assets/all%20users.pngg)
+![All Users](./src//assets/all%20users.png)
 ![Add PLace](./src/assets/add%20place.png)
 ![My Places](./src/assets/my%20places.png)
 
