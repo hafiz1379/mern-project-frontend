@@ -58,10 +58,10 @@ You can check out a live demo of the application [here](https://mern-project-fro
 
 ## Screenshots
 
-![All Users](./src/assets/image.png)
-![Add PLace](./src/assets/image-1.png)
-![Login](./src/assets/image-2.png)
-![My Places](./src/assets/image-3.png)
+![Login](./src/assets/login.png)
+![All Users](./src/assets/all%20users.pngg)
+![Add PLace](./src/assets/add%20place.png)
+![My Places](./src/assets/my%20places.png)
 
 ## Backend Repository
 
@@ -78,5 +78,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Author
 
-[Hafizullah Rasa](https://github.com/hafiz1379)
+👤 **Hafizullah Rasa**
+
+- GitHub: [Hafiz Rasa](https://github.com/hafiz1379)
+- LinkedIn: [Hafiz Rasa](https://www.linkedin.com/in/hafiz1379/)
 
